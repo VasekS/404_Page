@@ -1,1 +1,1 @@
-# 404_Page
+# Fun and simple 404 Page
